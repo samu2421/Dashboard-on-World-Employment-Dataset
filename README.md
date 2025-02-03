@@ -26,9 +26,16 @@ This project involves the cleaning, analysis, and visualization of a raw employm
 - Visual representations of global trends in unemployment, employment growth, and other labor market indicators.
 
 ## Project Files
-- **Tableau Prep Builder Files**: `Employment_Data_Cleaning.tfl`
-- **Tableau Desktop Files**: `Global_Employment_Dashboard.twbx`
-- **Raw Dataset**: `World_Employment_Dataset.csv` (or the format you use)
+- **Tableau Prep Builder Files**: `Final_project.tfl`
+- **Tableau Desktop Files**: `Final_visualization.twbx`
+- **Raw Dataset**: `World_Employment_Dataset.csv`
+- **Cleaned Dataset**: `output.hyper`
 
 ## How to Use
-1. Clone the repository:
+1. Clone the repository
+2. Open the Tableau Prep Builder file (`Employment_Data_Cleaning.tfl`) to view the data cleaning steps.
+3. Open the Tableau Desktop file (`Global_Employment_Dashboard.twbx`) to interact with the dashboard.
+
+## Acknowledgments
+- Thanks to the creators of the World Employment Dataset for providing valuable data.
+- Special thanks to the Tableau community for providing extensive resources to learn and use Tableau.
